@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shruti32
 - 👀 I’m interested in working on building end-to-end machine learning/data science systems.
-- 🌱 I’m currently learning BERT/NLP for a very small POC for my organization
-- 💞️ I’m looking to collaborate on works related to NLP and python programming
+- 🌱 I’m currently learning GenAI/LLMs
+- 💞️ I’m looking to collaborate on works related to cutting edge ML problems
 - 📫 Reach me on shruti.agrawal92@gmail.com
 
 <!---
